@@ -95,9 +95,5 @@ curl -X POST http://localhost:8080/api/tasks \
 
 ## 👨‍💻 Author
 
-**Raguram**  
+**RAGURAM A G**  
 GitHub: [@Raguram17ag](https://github.com/Raguram17ag)
-
-## 📄 License
-
-This project is open source and available under the MIT License.
